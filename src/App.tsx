@@ -1,10 +1,15 @@
-import React from 'react'
-import Greet from './Greet'
-import './App.css'
+import {Status} from './components/Status'
+import { Heading } from './components/Heading'
+import {Oscar} from './components/Oscar'
 const App = () => {
   return (
     <div className='App'>
-      <Greet name='Shiv' />
+    <Status status='loading' />
+      <Heading>Placeholder text</Heading>
+      
+      <Oscar>
+      <Heading>Oscar goes to Dicaprio</Heading>
+      </Oscar>
     </div>
   )
 }
