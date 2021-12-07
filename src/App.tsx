@@ -1,11 +1,11 @@
 import React from 'react'
-import Greet from './Greet'
+import Greet from './components/Greet'
 import './App.css'
 const App = () => {
   return (
     <div className='App'>
       <Greet name='Shiv' />
-    </div>
+    </div> 
   )
 }
 
