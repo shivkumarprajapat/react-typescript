@@ -4,6 +4,9 @@ Learn the latest React features like hooks, custom hooks, functional components.
 
 <img width='100%' height="100%" src='https://miro.medium.com/max/1024/1*Ukhx76VQ8E6JXEW7xfIzSA.png' />
 
+
+Create React App: npx ```create-react-app name-of-app --template typescript``` will create in new folder
+
 <details>
 <summary>Typescript Function</summary>
 
